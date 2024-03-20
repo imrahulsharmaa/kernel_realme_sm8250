@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Realme GT Neo 2 / Realme X50 Pro B I G S H O T
+kernel.string=Realme GT Neo 2 | A s t r a L i n k
 do.devicecheck=0
 do.modules=0
 do.systemless=1
